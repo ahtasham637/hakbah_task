@@ -1,3 +1,7 @@
+## Description
+Nakbah task was given as a task. The tech stack used is Nestjs (expresjs as base) using Typescript, swagger for api documentation and MongoDB as Database.
+
+
 ## Run app
 ### `cd hakbah_task`
 ### `npm install`
