@@ -3,7 +3,7 @@
 ### `npm install`
 
 ### Prerequisite
-Rename the `.env.example` and add mongodb credentials. 
+Rename the `.env.example` to `.env` and add mongodb credentials and JWT key.
 
 
 ### `npm run start:dev`
